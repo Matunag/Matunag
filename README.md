@@ -1,16 +1,142 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Matunag/Matunag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Filipe Matunaga
 
-Here are some ideas to get you started:
+**Engenharia de Software · UFG · 3º período**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-matunaga-a3bab9362/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Matunag)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipecampos.fcmb@gmail.com)
+
+</div>
+
+---
+
+## 👤 Sobre mim
+
+Estudante de Engenharia de Software na Universidade Federal de Goiás, com foco em desenvolvimento backend, agentes de IA e pesquisa aplicada. Atualmente pesquisador no **CEIA – UFG**, onde trabalho com benchmarks de ferramentas de IA e construção de agentes baseados em LLMs.
+
+Busco crescer em ambientes que desafiem minhas habilidades técnicas e me permitam contribuir de forma significativa com projetos reais.
+
+---
+
+## 🛠️ Stack & Habilidades
+
+### Linguagens
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+### Ferramentas & Tecnologias
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+### IA & LLMs
+- Técnicas: **ReAct**, **RAG**, **orquestração de agentes**, **engenharia de prompt**
+- Frameworks: **Google ADK**
+- Benchmarks de ferramentas open-source
+
+### Arquitetura & Metodologias
+- Padrão **MVC**
+- Boas práticas de desenvolvimento de software
+- Revisão sistemática de literatura e estudos terciários
+
+---
+
+## 🚀 Projetos
+
+> Adicione seus projetos abaixo seguindo o template!
+
+---
+
+### 📌 [Nome do Projeto](https://github.com/Matunag/nome-do-repositorio)
+
+**Descrição:** Breve descrição do que o projeto faz e qual problema resolve.
+
+**Habilidades utilizadas:**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+| Aspecto | Detalhe |
+|---|---|
+| Linguagem principal | GoLang |
+| Banco de dados | PostgreSQL |
+| Arquitetura | MVC |
+| Outras ferramentas | Docker, GitHub |
+
+---
+
+### 📌 [Nome do Projeto](https://github.com/Matunag/nome-do-repositorio)
+
+**Descrição:** Breve descrição do que o projeto faz e qual problema resolve.
+
+**Habilidades utilizadas:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+| Aspecto | Detalhe |
+|---|---|
+| Linguagem principal | Python |
+| Técnicas de IA | RAG, ReAct, Engenharia de Prompt |
+| Frameworks | Google ADK |
+| Outras ferramentas | N8N, GitHub |
+
+---
+
+### 📌 [Nome do Projeto](https://github.com/Matunag/nome-do-repositorio)
+
+**Descrição:** Breve descrição do que o projeto faz e qual problema resolve.
+
+**Habilidades utilizadas:**
+
+| Aspecto | Detalhe |
+|---|---|
+| Linguagem principal | _preencha_ |
+| Banco de dados | _preencha_ |
+| Arquitetura | _preencha_ |
+| Outras ferramentas | _preencha_ |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Filipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matunag&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ADD8&icon_color=00ADD8)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matunag&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ADD8)
+
+</div>
+
+---
+
+## 🎓 Experiência
+
+**Pesquisador** · CEIA – UFG *(Goiânia, GO)*
+- Revisão sistemática da literatura e estudos terciários
+- Benchmarks de ferramentas de IA, com foco em soluções open-source
+- Construção de agentes baseados em LLMs com Google ADK
+
+**Auxiliar Educacional** · Escola Shallon *(Goiânia, GO · 03/2025 – 04/2026)*
+- Aplicação de provas e simulados
+- Aulas extras de olimpíadas de matemática (OBMEP, Canguru, OMEG) e ciências (ONC, OBA)
+
+---
+
+## 🌐 Idiomas
+
+- 🇧🇷 Português — nativo
+- 🇺🇸 Inglês — avançado (C1)
+
+---
+
+<div align="center">
+  <sub>📍 Goiânia, GO · filipecampos.fcmb@gmail.com</sub>
+</div>
