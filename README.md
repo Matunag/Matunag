@@ -132,6 +132,30 @@ O núcleo do sistema é um **pipeline de 5 agentes especializados** orquestrados
 
 ---
 
+### 📌 [Questões de Programação Competitiva](https://github.com/Matunag)
+
+**Descrição:** Coleção de soluções para problemas de programação competitiva de nível introdutório. O objetivo do repositório foi desenvolver a capacidade de **ler um problema, abstrair o que está sendo pedido e traduzir isso em código eficiente**.
+
+**O que esse processo desenvolve:**
+
+| Dimensão | O que foi trabalhado |
+|---|---|
+| 🧠 **Raciocínio lógico** | Decomposição de problemas complexos em subproblemas menores e tratamento de casos-limite (*edge cases*) |
+| 🔁 **Pensamento algorítmico** | Escolha consciente entre abordagens (força bruta vs. solução ótima) e análise de complexidade |
+| 🗂️ **Estruturas de dados** | Aplicação prática de arrays, strings, pilhas, filas, mapas e conjuntos no contexto certo |
+| ⚙️ **C++ básico** | Sintaxe, STL (`vector`, `map`, `set`, `queue`), ponteiros, I/O rápido com `ios::sync_with_stdio` |
+| 🔍 **Leitura crítica de enunciados** | Interpretação precisa de restrições e exemplos antes de começar a codificar |
+| 📐 **Fundamentos matemáticos** | Aritmética modular, divisibilidade, combinatória e lógica booleana aplicados a problemas reais |
+| Benefício principal | Raciocínio lógico e resolução sistemática de problemas |
+
+
+**Habilidades utilizadas:**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -150,10 +174,6 @@ O núcleo do sistema é um **pipeline de 5 agentes especializados** orquestrados
 - Revisão sistemática da literatura e estudos terciários
 - Benchmarks de ferramentas de IA, com foco em soluções open-source
 - Construção de agentes baseados em LLMs com Google ADK
-
-**Auxiliar Educacional** · Escola Shallon *(Goiânia, GO · 03/2025 – 04/2026)*
-- Aplicação de provas e simulados
-- Aulas extras de olimpíadas de matemática (OBMEP, Canguru, OMEG) e ciências (ONC, OBA)
 
 ---
 
