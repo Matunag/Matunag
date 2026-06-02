@@ -55,7 +55,7 @@ Busco crescer em ambientes que desafiem minhas habilidades técnicas e me permit
 
 ---
 
-### 📌 [Projeto Integrador 1º semestre](https://github.com/Brettas2602/Projeto-Integrador-2025-1)
+### 📌 [Projeto Integrador 1º semestre](https://github.com/Matunag/Projeto-Integrador-2025-1-UFG-ES-)
 
 **Descrição:** Sistema web especializado em auxiliar profissionais de saúde e pacientes na identificação e tratamento de câncer de colo de útero. Desenvolvido em equipe como projeto integrador da turma de Engenharia de Software 2025/1.
 
@@ -70,13 +70,18 @@ Busco crescer em ambientes que desafiem minhas habilidades técnicas e me permit
 
 | Aspecto | Detalhe |
 |---|---|
-| Linguagem principal | JavaScript |
-| Linguagens auxiliares | HTML, CSS |
+| Linguagem principal | Go |
+| Linguagens auxiliares | HTML, CSS, Javascript |
 | Framework frontend | Next.js |
+| Framework back-end | Gin |
+| Arquitetura | Padrão MVC |
+| Banco de dados | PostgreSQL |
 | Estilização | Tailwind CSS |
 | Prototipagem | Figma |
 | Versionamento | GitHub (branches + Pull Requests) |
 | Trabalho em equipe | 5 integrantes, contribuições via fork/PR |
+
+Para mais informações e detalhes acesse o repositório nesse [link](https://github.com/Matunag/Projeto-Integrador-2025-1-UFG-ES-).
 
 ---
 
